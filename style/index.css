@@ -1,0 +1,31 @@
+body{
+    background-image: url('../photo/All\ Girls\ Are\ The\ Same\ _\ Boomplay\ Music.jpg');
+
+}
+ul{
+    float: right;
+    font-family: '宋体', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.nav-bar{
+    height: 100px;
+}
+.nav-bar li{
+    float: left;
+    list-style: none;
+    margin-left: 10px;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+}
+.btn{
+    display: inline-block;
+    padding: 3px 6px;
+    border-radius: 10px;
+    background-color: aqua;
+    text-decoration: none;
+}
+.w{
+    text-align: center;
+}
